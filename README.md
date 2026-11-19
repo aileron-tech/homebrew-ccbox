@@ -5,17 +5,17 @@ Homebrew tap for `ccbox`.
 ## Install
 
 ```bash
-brew tap diskd-ai/ccbox
+brew tap aileron-tech/ccbox
 brew install ccbox
 ```
 
 Or:
 
 ```bash
-brew install diskd-ai/ccbox/ccbox
+brew install aileron-tech/ccbox/ccbox
 ```
 
 ## Source
 
-`ccbox` lives at `diskd-ai/ccbox`.
+`ccbox` lives at `aileron-tech/ccbox`.
 
