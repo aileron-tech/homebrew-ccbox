@@ -1,8 +1,8 @@
 class Ccbox < Formula
   desc "Rust TUI box for managing Codex/Claude agent sessions"
-  homepage "https://github.com/diskd-ai/ccbox"
-  url "https://github.com/diskd-ai/ccbox/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "e7f20efc6b00077b2f04b2a945cd51aeacee5b936a3017e720890dfebb4f892f"
+  homepage "https://github.com/aileron-tech/ccbox"
+  url "https://github.com/aileron-tech/ccbox/archive/refs/tags/v0.1.21.tar.gz"
+  sha256 "bf615b6352d4431a03aab9afeba79bb251eae5310de7f0ed16eae54e9570083f"
   license "MIT"
 
   depends_on "rust" => :build
